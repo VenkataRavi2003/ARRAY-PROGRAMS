@@ -5,7 +5,7 @@ class UnionOfTwoArrays{
 		Scanner sc=new Scanner(System.in);
 		System.out.print("\nEnter 1st size array : ");
 		int size1=sc.nextInt();
-		if(size1<0){
+		if(size1<=0){
 			System.out.println("\nInvalid Size..!");
 			return;
 		}
