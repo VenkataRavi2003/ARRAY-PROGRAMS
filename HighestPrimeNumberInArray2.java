@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.util.Arrays;
-public class HighestPrimeNumberInArray2 {
+public class HighestPrimeNumberInArray{
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             int size;
